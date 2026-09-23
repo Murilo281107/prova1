@@ -1,0 +1,4 @@
+com\example\CandidatosTSE\service\CandidatosTseService.class
+com\example\CandidatosTSE\application\CandidatosTSE.class
+com\example\CandidatosTSE\model\Candidato.class
+com\example\CandidatosTSE\controller\CandidatosTseController.class
